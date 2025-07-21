@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me thruugh siddhartha.wp29@gmail.com
+- 📫 How to reach me through siddhartha.wp29@gmail.com
 
 <!---
 sanganisiddhartha/sanganisiddhartha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
