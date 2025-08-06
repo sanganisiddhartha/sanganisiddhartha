@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sanganisiddhartha
-- 👀 I’m interested in web development
+- 👀 I’m a Java Full Stack developer over 5 years of exp
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me through siddhartha.wp29@gmail.com
