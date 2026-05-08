@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sanganisiddhartha
-- 👀 I’m a Data Scientist with over 4 years of exp
+- 👀 I’m a Software Enginner with over 4 years of exp
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me through mail ;)
